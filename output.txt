@@ -28,3 +28,18 @@ Condition   : Mist
 Wind Speed  : 13.0 km/h
 =================================
 
+
+========= Weather Report =========
+City        : Nirmal
+Region      : Andhra Pradesh
+Country     : India
+Latitude    : 19.1
+Longitude   : 78.35
+Local Time  : 2026-01-30 17:18
+
+Temperature : 30.0 °C
+Humidity    : 30 %
+Condition   : Sunny
+Wind Speed  : 8.3 km/h
+=================================
+

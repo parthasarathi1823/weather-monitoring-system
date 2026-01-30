@@ -1,2 +1,6 @@
 # dotenv --> to safegaurd my API KEY
 .env
+# all log files
+*.log
+# output file
+output
