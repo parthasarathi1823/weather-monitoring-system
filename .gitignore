@@ -1,8 +1,8 @@
 # dotenv --> to safegaurd my API KEY
 .env
 # all log files
-*.log
+activities.log
 # output file
-output
+output.txt
 # pycache
 __pycache__
