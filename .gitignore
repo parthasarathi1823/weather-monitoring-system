@@ -4,3 +4,5 @@
 *.log
 # output file
 output
+# pycache
+__pycache__
