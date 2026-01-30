@@ -1,8 +1,8 @@
 import requests
 from config import API_KEY,API_URL
 
-def fetch_weather(city_name: str) -> dict :
-    payload={'key':API_KEY,'q':city_name}
+def fetch_weather() :
+    payload={'key':API_KEY,'q':"Hyderabad"}
 
     response=requests.get(API_URL,params=payload)
 
