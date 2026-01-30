@@ -1,0 +1,30 @@
+
+========= Weather Report =========
+City        : Nirmal
+Region      : Andhra Pradesh
+Country     : India
+Latitude    : 19.1
+Longitude   : 78.35
+Local Time  : 2026-01-30 16:16
+
+Temperature : 31.2 °C
+Humidity    : 26 %
+Condition   : Sunny
+Wind Speed  : 7.9 km/h
+=================================
+
+
+========= Weather Report =========
+City        : Hyderabad
+Region      : Telangana
+Country     : India
+Latitude    : 17.3753
+Longitude   : 78.4744
+Local Time  : 2026-01-30 16:18
+
+Temperature : 27.2 °C
+Humidity    : 39 %
+Condition   : Mist
+Wind Speed  : 13.0 km/h
+=================================
+
