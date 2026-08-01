@@ -61,7 +61,7 @@ Libraries:
 - os – system environment access
 - Data Format: JSON
 API: 
-- Free Weather API (e.g., WeatherAPI / OpenWeatherMap)
+- Free Weather API (e.g., WeatherAPI )
 
 Future Improvements:
 - Build CLI menu system
